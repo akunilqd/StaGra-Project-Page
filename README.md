@@ -2,15 +2,9 @@
 
 Project page for the paper **MRI Segmentation via Training-Free Statistical-Graph Framework**.
 
-## Local preview
+## View the website
 
-From this directory, run:
-
-```powershell
-python -m http.server 4173
-```
-
-Then open <http://127.0.0.1:4173/>.
+https://akunilqd.github.io/StaGra-Project-Page/
 
 ## Contents
 
